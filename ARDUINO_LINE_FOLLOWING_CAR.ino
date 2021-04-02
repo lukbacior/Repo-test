@@ -1,12 +1,11 @@
 
 #include <AFMotor.h>
 
-#define right A1
+#define right A5
 #define left A0
 
-float sterowanie=0;
+float sterowanie=57;
 
-//defining motors
 AF_DCMotor motor1(1); 
 AF_DCMotor motor2(2);
 
