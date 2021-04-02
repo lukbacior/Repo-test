@@ -4,7 +4,7 @@
 #define right A5
 #define left A0
 
-float sterowanie=56;
+float sterowanie=57;
 
 AF_DCMotor motor1(1); 
 AF_DCMotor motor2(2);
